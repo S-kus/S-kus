@@ -14,7 +14,7 @@
   
 - 🔭 I’m currently working on [COPS SDG site](https://github.com/COPS-IITBHU/sdg-site)  
   
-- 🌱 I’m currently learning **NUXT**  
+- 🌱 I’m currently learning **NuxtJS**  
   
 - 👯 I’m looking to collaborate on **on exciting projects!**  
   
