@@ -2,11 +2,15 @@
 <h1 align="center">Hello 👋<br>I'm Saumya Kushwaha</h1>  
 <h3 align="center">Web Developer</h3>  
   
+ 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-kus&label=Profile%20views&color=0e75b6&style=flat" alt="S-kus" /> </p>  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236DD9BB&size=28&lines=Hello+there!;How+you+doing!)](https://git.io/typing-svg)
+
   <p>I am a MEVN Web Developer continuously exploring new technologies. Currently, I am a student pursuing Computer Science and Engineering at the Indian Institute of Technology ( BHU ) as a sophomore.</p>
   <br>
  
-  
   
 - 🔭 I’m currently working on [COPS SDG site](https://github.com/COPS-IITBHU/sdg-site)  
   
