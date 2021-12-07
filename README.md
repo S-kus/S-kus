@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-kus&label=Profile%20views&color=0e75b6&style=flat" alt="S-kus" /> </p>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236DD9BB&size=28&lines=Hello+there!;How+you+doing!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236DD9BB&size=28&lines=Hello+there!;How+you+doing!)](https://git.io/typing-svg) -->
 
   <p>I am a MEVN Web Developer continuously exploring new technologies. Currently, I am a student pursuing Computer Science and Engineering at the Indian Institute of Technology ( BHU ) as a sophomore.</p>
   <br>
