@@ -1,6 +1,5 @@
 
 <h1 align="center">Hello 👋<br>I'm Saumya Kushwaha</h1>  
-<h3 align="center">Web Developer</h3>  
   
  
 
