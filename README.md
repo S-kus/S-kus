@@ -11,13 +11,13 @@
   <br>
  
   
-- 🔭 I’m currently working on [COPS SDG site](https://github.com/COPS-IITBHU/sdg-site)  
+<!-- - 🔭 I’m currently working on [COPS SDG site](https://github.com/COPS-IITBHU/sdg-site)  
   
 - 🌱 I’m currently learning **NuxtJS**  
   
 - 👯 I’m looking to collaborate on **on exciting projects!**  
   
-- 💬 Ask me about **Vue, Django and Nodejs**  
+- 💬 Ask me about **Vue, Django and Nodejs**   -->
   
 - 📫 Reach me at **saumyakus@gmail.com**
   
@@ -31,6 +31,6 @@
 </p>  
   <br>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-kus&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="S-kus" /></p>   -->
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="iamezio" /></p>  
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-kus&show_icons=true&locale=en&theme=midnight-purple" alt="iamezio" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-kus&show_icons=true&locale=en&theme=midnight-purple" alt="iamezio" /></p>
