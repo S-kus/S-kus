@@ -30,7 +30,6 @@
 <a href="https://instagram.com/k_saumya30_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_saumya30_" height="30" width="40" /></a>  
 </p>  
   <br>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-kus&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="S-kus" /></p>   -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="iamezio" /></p>  
  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-kus&show_icons=true&locale=en&theme=midnight-purple" alt="iamezio" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-kus&show_icons=true&locale=en&theme=midnight-purple" alt="S-kus" /></p>
