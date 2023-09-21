@@ -26,10 +26,11 @@
  
 <h2 align="center">Connect with me</h2>  
 <p align="center">  
-<a href="https://dev.to/skus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skus" height="30" width="40" /></a>  
-<a href="https://instagram.com/k_saumya30_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_saumya30_" height="30" width="40" /></a>  
+<a href="https://dev.to/skus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skus" height="20" width="30" /></a>  
+<a href="https://instagram.com/k_saumya30_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_saumya30_" height="20" width="30" /></a>  
+<a href="https://www.linkedin.com/in/saumya-kushwaha-00ba101ba/" target="blank"><img align="center" src="https://i.stack.imgur.com/gVE0j.png" alt="k_saumya30_" height="20" width="30" /></a>  
 </p>  
   <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamezio&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="iamezio" /></p>  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-kus&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="skus" /></p>  
  
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-kus&show_icons=true&locale=en&theme=midnight-purple" alt="S-kus" /></p>
