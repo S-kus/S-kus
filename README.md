@@ -7,17 +7,17 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236DD9BB&size=28&lines=Hello+there!;How+you+doing!)](https://git.io/typing-svg) -->
 
-  <p>I am a MEVN Web Developer continuously exploring new technologies. Currently, I am a student pursuing Computer Science and Engineering at the Indian Institute of Technology ( BHU ) as a sophomore.</p>
+  <p>I am a MEVN Web Developer continuously exploring new technologies. Currently, I am a student pursuing Computer Science and Engineering at the Indian Institute of Technology ( BHU ) as a final year student.</p>
   <br>
  
   
 <!-- - 🔭 I’m currently working on [COPS SDG site](https://github.com/COPS-IITBHU/sdg-site)  
   
-- 🌱 I’m currently learning **NuxtJS**  
+- 🌱 I’m currently learning **Golang.**  
   
 - 👯 I’m looking to collaborate on **on exciting projects!**  
   
-- 💬 Ask me about **Vue, Django and Nodejs**   -->
+- 💬 Ask me about **Vue.js, Django and Node.js**   -->
   
 - 📫 Reach me at **saumyakus@gmail.com**
   
