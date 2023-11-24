@@ -32,5 +32,3 @@
 </p>  
   <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-kus&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="skus" /></p>  
- 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-kus&show_icons=true&locale=en&theme=midnight-purple" alt="S-kus" /></p>
